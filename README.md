@@ -12,6 +12,6 @@ See **Releases** for `WorldOfCraft.zip`.
 
 ```
 resource-pack=https://github.com/korf360/WorldOfCraft-ResourcePack/releases/latest/download/WorldOfCraft.zip
-resource-pack-sha1=17a881316d11c323b7fdb43be74a6dd630e4c249
+resource-pack-sha1=6fddc316882a2cad42079609ff5374095c9aa789
 require-resource-pack=true
 ```
