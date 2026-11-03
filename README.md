@@ -1,8 +1,6 @@
 ﻿# WorldOfCraft Resource Pack
 
-Server resource pack for [WorldOfCraft](https://github.com/korf360).
-
-Models/textures include assets from [Loy's Goodies](https://github.com/SL0ANE/Loy-s-Goodies) (CC0).
+Server resource pack for WorldOfCraft (Minecraft **1.21.1**, pack_format 34).
 
 ## Download
 
@@ -12,6 +10,7 @@ See **Releases** for `WorldOfCraft.zip`.
 
 ```
 resource-pack=https://github.com/korf360/WorldOfCraft-ResourcePack/releases/latest/download/WorldOfCraft.zip
-resource-pack-sha1=6fddc316882a2cad42079609ff5374095c9aa789
+resource-pack-sha1=f68b29f7f06b8855c8bd109f05633e11bfe884ff
 require-resource-pack=true
+resource-pack-prompt={"text":"WorldOfCraft needs this pack for custom gear, crates and mounts."}
 ```
